@@ -1,5 +1,5 @@
 <h2 align="center"> 
-  Desafio 06: Iniciando back-end do App
+  Desafio 06: Iniciando back-end do App: GoFinances
 </h3>
 
 <p align="center">
